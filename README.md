@@ -27,7 +27,7 @@ A CLI tool that automatically migrates ESLint and Prettier configurations to [Bi
 ## Installation
 
 ```bash
-go install github.com/yourusername/biome-config-generator@latest
+go install github.com/circles-00/biome-config-generator@latest
 ```
 
 Or build from source:
