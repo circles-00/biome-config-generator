@@ -33,7 +33,7 @@ go install github.com/circles-00/biome-config-generator@latest
 Or build from source:
 
 ```bash
-git clone https://github.com/yourusername/biome-config-generator.git
+git clone https://github.com/circles-00/biome-config-generator.git
 cd biome-config-generator
 go build -o biome_configurator
 ```
